@@ -1,0 +1,12 @@
+{
+    "esversion" : 6,
+
+    "eqeqeq"   : true,
+    "quotmark" : "single",
+    "maxdepth" : 4,
+    "varstmt"  : true,
+
+    "node"    : true,
+    "mocha"   : true,
+    "globals" : {}
+}

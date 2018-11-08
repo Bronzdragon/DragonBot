@@ -1,0 +1,28 @@
+{
+  "name": "dragonbot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bronzdragon/DragonBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "Walter Bormans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bronzdragon/DragonBot/issues"
+  },
+  "homepage": "https://github.com/Bronzdragon/DragonBot#readme",
+  "dependencies": {
+    "chai": "*",
+    "discord.js": "^11.4.2",
+    "mocha": "*"
+  }
+}
